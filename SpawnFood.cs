@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnFood : MonoBehaviour {
+public class SpawnFood : MonoBehaviour , Interface {
 
     public GameObject foodPrefab;
 
